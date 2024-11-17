@@ -18,6 +18,10 @@ https://www.kaggle.com/datasets/akhatova/pcb-defects/data
 #### Novelty - 
 1. -basic morpgological processes like dilating and opening did not involve complex segmentations
 
+### steps-
+1.Run the matlab code mentioned in the code.m file
+2.Use the original image with no defects as the template and any of the test images mentioned.
+
 ### Outputs-
 <img width="1118" alt="Screenshot 2024-11-17 at 12 22 34 PM" src="https://github.com/user-attachments/assets/58dd206d-03a9-48db-ac0d-6a0e627bd21e">
 
