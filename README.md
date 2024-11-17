@@ -18,6 +18,12 @@ https://www.kaggle.com/datasets/akhatova/pcb-defects/data
 #### Novelty - 
 1. -basic morpgological processes like dilating and opening did not involve complex segmentations
 
+### Outputs-
+<img width="1118" alt="Screenshot 2024-11-17 at 12 22 34 PM" src="https://github.com/user-attachments/assets/58dd206d-03a9-48db-ac0d-6a0e627bd21e">
+
+<img width="1138" alt="Screenshot 2024-11-17 at 12 23 20 PM" src="https://github.com/user-attachments/assets/d8276133-d77b-4f2a-9632-116fc0021448">
+<img width="1117" alt="Screenshot 2024-11-17 at 12 24 09 PM" src="https://github.com/user-attachments/assets/a5f10623-328e-4cb9-9bea-34982068a2d8">
+
    
 ### Contributors:
 1.RACHANA GB(PES1UG22EC225)
