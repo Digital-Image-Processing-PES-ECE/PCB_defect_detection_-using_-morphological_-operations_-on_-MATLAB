@@ -1,5 +1,5 @@
-# Project Name
-PCB DEFECT DETECTION
+# PCB DEFECT DETECTION
+
 ### Project Description:
 #### Summary - This project revolves around the detection of holes and open circuit by using morphological operations . The pre-processing steps involved converting it into grayscale,histogram equalisation,gaussian blur and binarization processes like thresholding was used. Opening and dilation was used and XOR operations were used for finding out the diffferences.Bounding boxes were later on applied to the defected areas.
 
